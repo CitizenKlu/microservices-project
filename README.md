@@ -1,4 +1,4 @@
-[![CirceCI](https://circleci.com/github/khaled3500/microservices-project.svg?style=sheild)](https://app.circleci.com/pipelines/github/Khaled3500/microservices-project)
+[![CircleCI](https://app.circleci.com/github/khaled3500/microservices-project.svg?style=sheild)](https://app.circleci.com/pipelines/github/Khaled3500/microservices-project)
 
 ## Project Overview
 
